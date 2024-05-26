@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently student of [Solita Cloud Academy](https://cloud.solita.fi/en/solita-cloud-academy-a-fast-track-to-cloud-business/) and working on a video blog/blog series about digital problem solving in 2024. I'm learning Terraform, Flutter, Github Actions and Azure while I solve a real world problem. 
+I'm currently working as a cloud engineer for [Solita Oy](https://www.solita.fi/). I am using Terraform to do platform engineering tasks on Azure. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mai.roihu.sahlberg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mai.roihu.sahlberg) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/fuula) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@auntiemai3516) 
